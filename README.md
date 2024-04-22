@@ -59,7 +59,7 @@ There are two python scripts in this repo:
 
 and one jupyter script: 
 
-`Excel_table_clustering_code_using_K-Means_in_Python.ipynb`
+`Excel_table_clustering_code_using_K-Means_in_Python.ipynb` (based on João Nuno Carvalho code: https://github.com/joaocarvalhoopen/Excel_table_clustering_using_K-Means_ML)
 
 
 ### Download the datasets
